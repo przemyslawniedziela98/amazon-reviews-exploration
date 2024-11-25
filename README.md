@@ -7,8 +7,8 @@ The analysis is based on the dataset: [Amazon Product Reviews](https://www.kaggl
 
 1. **`amazon_reviews_exploration`**  
    Exploring reviews to identify patterns and clusters:
-   - **EDA** exploration of review metadata, ratings and textual content;
-   - **PCA** reduction of feature dimensions;
+   - **EDA** Exploration of review metadata, ratings and textual content;
+   - **PCA** Reduction of feature dimensions;
    - **Clustering** K-Means and HDBSCAN, calculating Silhouette Scores and Davies-Bouldin Scores;
 
 2. **`amazon_reviews_sentiment_modeling`**  
